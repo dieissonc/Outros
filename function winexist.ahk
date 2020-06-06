@@ -1,0 +1,1 @@
+MsgBox	%	DllCall("IsWindowVisible", "Ptr", WinExist("(Untitled) * SciTE4AutoHotkey"))	;	1 existe | 0 não existe
